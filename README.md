@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Devin
+
+[My Blog](https://sidequests.onrender.com/Blog/2024/DG731/GrowthMindset/)
 
 <!--
 **DGibbs731/DGibbs731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
