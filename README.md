@@ -2,13 +2,23 @@
 
 [My Blog](https://sidequests.onrender.com/Blog/2024/DG731/GrowthMindset/)
 
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learn
+    Born in and raised in Brownsville, TN. I'm a college graudate of the University of Memphis. I've lived in Memphis for going on 10+ years. I'm a chill person who loves to connect with new people and learn unique things. Welcome to my journey into code!
 
-#### Hobbies
 
- - Mauy Thai 
-   - [image](https://www.bing.com/images/search?view=detailV2&ccid=IXfM9QSR&id=3DAFB654927CF806612F25E8DA34395FF44D3E32&thid=OIP.IXfM9QSRXp5ddqvsWb3lCAHaHa&mediaurl=https%3a%2f%2fd3k81ch9hvuctc.cloudfront.net%2fcompany%2fTsub65%2fimages%2f54bd1d2e-cf80-4177-8659-d83f48a57dd6.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2177ccf504915e9e5d76abec59bde508%3frik%3dMj5N9F85NNroJQ%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1000&q=mauy+thai+gif&simid=608013648761875853&FORM=IRPRST&ck=18934D863F2AACB700497A66A67FFE7A&selectedIndex=9&itb=0)
+#### What I do for fun 
 
-   
+ - Mauy Thai
+
+    ![image](https://www.bing.com/th/id/OGC.2177ccf504915e9e5d76abec59bde508?pid=1.7&rurl=https%3a%2f%2fd3k81ch9hvuctc.cloudfront.net%2fcompany%2fTsub65%2fimages%2f54bd1d2e-cf80-4177-8659-d83f48a57dd6.gif&ehk=y%2bXXqXXiAuJiPzDGc3OaWICjm8sBLTYdJBZ3RIoNkIc%3d)
+
+- Photography
+
+    ![image](https://i.imghippo.com/files/WqnjZ1722356552.jpg) 
+    - Post Malone shot by me
+
+
+
+
+
